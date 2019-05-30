@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrim">#00BBD3</color>
+    <color name="colornotify">#006064</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorNaveen">#000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="primarytext">#424242</color>
+    <color name="secondarytext">#757575</color>
+    <color name="colordivider">#BDBDBD</color>
+    <color name="editText">#dadada</color>
+    <color name="transparent">#00000000</color>
+</resources>
