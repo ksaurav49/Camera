@@ -1,2 +1,2 @@
 # Pooling-App
-java code to take screenshot directly and sharing the screenshot and value of text field in the text message to the number provided.
+Pooling  is an application for BJP to help people getting details about their pooling booth. Screenshot of the voting details is shared to users in their whatsapp and text message.
